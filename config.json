@@ -1,7 +1,25 @@
 {
+    "banner": "https://images.unsplash.com/photo-1535320404287-416e2c6d2b41?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "name": "Tiago Guedes (DevTiago)",
     "job": "Assistant Developer",
     "linkedin": "https://media-exp1.licdn.com/dms/image/C5603AQGmOday1xyfyQ/profile-displayphoto-shrink_200_200/0/1583248980730?e=1673481600&v=beta&t=PgLa54_qfQDuMJKOu4qXnD6bO8pw5dz7EDlRSAYNi6A",
+    "favorits": [
+        {
+            "name":"Alura Cursos Online",
+            "url":"https://www.youtube.com/c/Alura",
+            "photo":"https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s88-c-k-c0x00ffffff-no-rj"
+        },
+        {
+            "name":"ESPN Brasil",
+            "url":"https://www.youtube.com/c/espnbrasil",
+            "photo":"https://yt3.ggpht.com/ytc/AMLnZu_8cdKixZObfS3WQYnxnJgI9n4Raw5rFGhV93Be7qM=s88-c-k-c0x00ffffff-no-rj"
+        },
+        {
+            "name":"DW Documentary",
+            "url":"https://www.youtube.com/c/DWDocumentary",
+            "photo":"https://yt3.ggpht.com/ytc/AMLnZu9dz6dwgI05nztlTi3UvmiuftxHnTnM1wco1LDL0A=s88-c-k-c0x00ffffff-no-rj"
+        }
+    ],
     "playlists": {
         "jogos": [
             {
